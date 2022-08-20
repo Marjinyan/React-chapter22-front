@@ -1,0 +1,8 @@
+.content {
+    padding: 10px;
+}
+
+.books {
+    display: flex;
+    flex-wrap: wrap;
+}

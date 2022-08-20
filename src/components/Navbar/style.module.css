@@ -1,0 +1,24 @@
+.navbar {
+    background: black;
+    padding: 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin-left: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
